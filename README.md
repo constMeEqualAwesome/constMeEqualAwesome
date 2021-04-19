@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 
-const me = 'Awesome'
+const me = 'Awesome';
